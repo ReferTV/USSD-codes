@@ -63,3 +63,17 @@
 | Sprawdzenie statusu przekazywania połączeń, gdy nie ma odpowiedzi | *#61# | Wyświetla status przekazywania połączeń, gdy nie ma odpowiedzi |
 | Ustawienie usługi połączenia awaryjnego | 112 | Ustawia połączenie awaryjne |
 | Przejście w tryb szybkiego wybierania | ** | Umożliwia szybkie wybieranie numeru telefonu |
+| Ustawienie usługi połączenia konferencyjnego | *67*numer1#numer2#numer3# | Ustawia połączenie konferencyjne z podanymi numerami |
+| Wyłączenie usługi połączenia konferencyjnego | #67# | Wyłącza usługę połączenia konferencyjnego |
+| Ustawienie usługi blokady połączeń przychodzących | *35*numer# | Ustawia blokadę połączeń przychodzących od danego numeru |
+| Wyłączenie usługi blokady połączeń przychodzących | #35*numer# | Wyłącza blokadę połączeń przychodzących od danego numeru |
+| Sprawdzenie statusu blokady połączeń przychodzących | *#35# | Wyświetla status blokady połączeń przychodzących |
+| Ustawienie usługi blokady połączeń wychodzących | *33*numer# | Ustawia blokadę połączeń wychodzących do danego numeru |
+| Wyłączenie usługi blokady połączeń wychodzących | #33*numer# | Wyłącza blokadę połączeń wychodzących do danego numeru |
+| Sprawdzenie statusu blokady połączeń wychodzących | *#33# | Wyświetla status blokady połączeń wychodzących |
+| Ustawienie usługi blokady połączeń wychodzących na numer krótki | *331*numer# | Ustawia blokadę połączeń wychodzących na numer krótki |
+| Wyłączenie usługi blokady połączeń wychodzących na numer krótki | #331*numer# | Wyłącza blokadę połączeń wychodzących na numer krótki |
+| Sprawdzenie statusu blokady połączeń wychodzących na numer krótki | *#331# | Wyświetla status blokady połączeń wychodzących na numer krótki |
+| Ustawienie usługi blokady połączeń przychodzących ze wszystkich numerów | *35*0000# | Ustawia blokadę połączeń przychodzących ze wszystkich numerów |
+| Wyłączenie usługi blokady połączeń przychodzących ze wszystkich numerów | #35*0000# | Wyłącza blokadę połączeń przychodzących ze wszystkich numerów |
+| Sprawdzenie statusu blokady połączeń przychodzących ze wszystkich numerów | *#35*0000# | Wyświetla status blokady połączeń przychodzących ze wszystkich numerów |
